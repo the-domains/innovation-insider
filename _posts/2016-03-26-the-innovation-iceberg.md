@@ -8,8 +8,8 @@ keywords: []
 description: |-
   ‘All you have to do is write
   one true sentence. Write the truest sentence you know.’
-datePublished: '2016-03-26T17:20:51.492Z'
-dateModified: '2016-03-26T17:20:27.055Z'
+datePublished: '2016-03-26T17:25:28.823Z'
+dateModified: '2016-03-26T17:20:56.820Z'
 title: The Innovation Iceberg
 author: []
 sourcePath: _posts/2016-03-26-the-innovation-iceberg.md
