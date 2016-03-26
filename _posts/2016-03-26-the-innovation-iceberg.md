@@ -3,13 +3,13 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: |-
   ‘All you have to do is write
   one true sentence. Write the truest sentence you know.’
-datePublished: '2016-03-26T17:25:28.823Z'
-dateModified: '2016-03-26T17:20:56.820Z'
+datePublished: '2016-03-26T18:47:13.296Z'
+dateModified: '2016-03-26T17:50:56.075Z'
 title: The Innovation Iceberg
 author: []
 sourcePath: _posts/2016-03-26-the-innovation-iceberg.md
@@ -24,6 +24,10 @@ url: the-innovation-iceberg/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09883e6-2513-4e70-a5b0-f4704892191d.png)
+
+__
+
 _'All you have to do is write
 one true sentence. Write the truest sentence you know.'_
 
@@ -138,4 +142,4 @@ kept along the life-cycle. Products value becomes circular and these are 'made
 to be made again' and return to the cycle. Throwing away food, energy or water
 is starting to be seeing as immense opportunity that can produce significant
 returns quite rapidly. But if we talk about recycling ideas we are still in a
-material take-make-dispose model. As Hemingway wrote ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09883e6-2513-4e70-a5b0-f4704892191d.png)
+material take-make-dispose model. As Hemingway wrote
