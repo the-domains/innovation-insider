@@ -1,0 +1,28 @@
+name: Innovation Insider
+favicon: null
+layout_spectrum: 0.6919054919853806
+typography_spectrum: 0.9266385831870139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4327786243520677
+  lightness: 0.09398456127382815
+  saturation: 0.5583110265433788
+  rhythmicContrast: 0.24396836385130882
+purpose: []
